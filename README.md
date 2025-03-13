@@ -25,5 +25,5 @@ To set up and test the MiniVault contract, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/minivault.git
+   git clone https://github.com/Sneha07k/miniiVault
    cd minivault
